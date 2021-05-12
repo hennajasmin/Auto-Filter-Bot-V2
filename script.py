@@ -10,7 +10,7 @@ This is Version 2 of Misa Amina Bot
 Bot gives button Automatic... !
 
 My Mine 💕@soulsharper!
-
+But Iam corporate With This manh 🔥@Ron_y_reing_Z and His Channel and Group https://t.me/musi_c_world
 For more click <i>help</i></b>"""
 
 
