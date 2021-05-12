@@ -3,13 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call this as an Misa Amina Bot if you like :D
 
-This is Version 2 of Auto Filter Bot
+This is Version 2 of Misa Amina Bot
 
-Bot gives button link to files in connected channels on query !
+Bot gives button Automatic... !
 
-No need to add filters for your files or movies from now on!
+My Mine 💕@soulsharper!
 
 For more click <i>help</i></b>"""
 
@@ -53,7 +53,7 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @Soulsharper</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
